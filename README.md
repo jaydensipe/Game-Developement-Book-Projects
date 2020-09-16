@@ -1,2 +1,3 @@
 # Game Developement Book Projects
- C++ Projects made with the help of (Beginning C++ Game Programming Second Edition).
+These are game projects I created using the help of the book: Beginning C++ Game Programming 2nd Edition.
+I already know the basics of programming covered in the book, but wanted an interactive way to learn C++.
